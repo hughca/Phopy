@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Phopy.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="fromPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\Phopy\from</Value>
+    </Setting>
+    <Setting Name="toPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\Phopy\to</Value>
+    </Setting>
+    <Setting Name="overwrite" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="filetype" Type="System.String" Scope="User">
+      <Value Profile="(Default)">*.ARW</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
